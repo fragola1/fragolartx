@@ -10,9 +10,9 @@ namespace nunu {
 
 
 	script_spell* q = nullptr;
-    script_spell* w = nullptr;
-    script_spell* e = nullptr;
-    script_spell* r = nullptr;	
+	script_spell* w = nullptr;
+	script_spell* e = nullptr;
+	script_spell* r = nullptr;	
 
 
 	script_spell* flash = nullptr;
